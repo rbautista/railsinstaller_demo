@@ -1,2 +1,2 @@
-RailsInstaller
+railsinstaller_demo
 ==============
